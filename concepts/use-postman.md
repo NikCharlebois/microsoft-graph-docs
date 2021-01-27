@@ -21,8 +21,10 @@ For details about how to do this follow the detailed steps below or watch the fo
 To use the Postman collection you will need to fork it to your own Postman workspace. This has to be done from the web browser.
 
 1. Navigate to [Microsoft Graph Postman Collection](https://www.postman.com/microsoftgraph/workspace/microsoft-graph/collection/455214-085f7047-1bec-4570-9ed0-3a7253be148c/fork) in your web browser.
-2. Fill in a label for your own fork. This can be any text.
-3. Under Workspace ensure that **My Workspace** is selected in the drop down. 
+2. Make sure you are logged into your Postman Account.
+3. Fill in a label for your own fork. This can be any text.
+4. Under Workspace ensure that **My Workspace** is selected in the drop down.
+5. Click on the **Fork Collection** button.
 
 You will now be redirected to a fork of the main Microsoft Graph Postman collection in your own workspace.
 
